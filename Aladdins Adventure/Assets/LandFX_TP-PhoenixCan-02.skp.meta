@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 56b8b8817c2d6e44cb67b895200513b4
+timeCreated: 1449470052
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 82dcd6288abea22f7570e2428947196d
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 14.2450323, y: 8.11991787, z: .344967514}
+      lookAt: {x: 2.80764341, y: 2.81150913, z: 2.48164701}
+      up: {x: -.408017367, y: .909786642, z: .0762238875}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 215.807388
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Canopy-Palm-02
+    100002: //RootNode
+    100004: Leaf-Palm-04
+    100006: Leaf-Palm-04 1
+    100008: Leaf-Palm-04 10
+    100010: Leaf-Palm-04 11
+    100012: Leaf-Palm-04 12
+    100014: Leaf-Palm-04 13
+    100016: Leaf-Palm-04 14
+    100018: Leaf-Palm-04 15
+    100020: Leaf-Palm-04 2
+    100022: Leaf-Palm-04 3
+    100024: Leaf-Palm-04 4
+    100026: Leaf-Palm-04 5
+    100028: Leaf-Palm-04 6
+    100030: Leaf-Palm-04 7
+    100032: Leaf-Palm-04 8
+    100034: Leaf-Palm-04 9
+    100036: Runk-Palm-Head-01
+    100038: Trunk-Palm-Wide-Bent-01
+    100040: Trunk-Palm-Wide-Bent-Date-01
+    400000: Canopy-Palm-02
+    400002: //RootNode
+    400004: Leaf-Palm-04
+    400006: Leaf-Palm-04 1
+    400008: Leaf-Palm-04 10
+    400010: Leaf-Palm-04 11
+    400012: Leaf-Palm-04 12
+    400014: Leaf-Palm-04 13
+    400016: Leaf-Palm-04 14
+    400018: Leaf-Palm-04 15
+    400020: Leaf-Palm-04 2
+    400022: Leaf-Palm-04 3
+    400024: Leaf-Palm-04 4
+    400026: Leaf-Palm-04 5
+    400028: Leaf-Palm-04 6
+    400030: Leaf-Palm-04 7
+    400032: Leaf-Palm-04 8
+    400034: Leaf-Palm-04 9
+    400036: Runk-Palm-Head-01
+    400038: Trunk-Palm-Wide-Bent-01
+    400040: Trunk-Palm-Wide-Bent-Date-01
+    2300000: Leaf-Palm-04
+    2300002: Leaf-Palm-04 1
+    2300004: Leaf-Palm-04 10
+    2300006: Leaf-Palm-04 11
+    2300008: Leaf-Palm-04 12
+    2300010: Leaf-Palm-04 13
+    2300012: Leaf-Palm-04 14
+    2300014: Leaf-Palm-04 15
+    2300016: Leaf-Palm-04 2
+    2300018: Leaf-Palm-04 3
+    2300020: Leaf-Palm-04 4
+    2300022: Leaf-Palm-04 5
+    2300024: Leaf-Palm-04 6
+    2300026: Leaf-Palm-04 7
+    2300028: Leaf-Palm-04 8
+    2300030: Leaf-Palm-04 9
+    2300032: Runk-Palm-Head-01
+    2300034: Trunk-Palm-Wide-Bent-01
+    3300000: Leaf-Palm-04
+    3300002: Leaf-Palm-04 1
+    3300004: Leaf-Palm-04 10
+    3300006: Leaf-Palm-04 11
+    3300008: Leaf-Palm-04 12
+    3300010: Leaf-Palm-04 13
+    3300012: Leaf-Palm-04 14
+    3300014: Leaf-Palm-04 15
+    3300016: Leaf-Palm-04 2
+    3300018: Leaf-Palm-04 3
+    3300020: Leaf-Palm-04 4
+    3300022: Leaf-Palm-04 5
+    3300024: Leaf-Palm-04 6
+    3300026: Leaf-Palm-04 7
+    3300028: Leaf-Palm-04 8
+    3300030: Leaf-Palm-04 9
+    3300032: Runk-Palm-Head-01
+    3300034: Trunk-Palm-Wide-Bent-01
+    4300000: Mesh Runk-Palm-Head-01
+    4300002: Mesh Trunk-Palm-Wide-Bent-01
+    4300004: Mesh Leaf-Palm-04
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
