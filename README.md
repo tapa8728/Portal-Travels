@@ -15,3 +15,27 @@ This project is about using Google Cardboard and exploring the world of Virtual 
 - Sara Gallagher
 - Tanvi Parikh
 
+Since we used Google Cardboard to demo the 3D renditions of our work, please find screenshots below. You can download the .apk files from our repository and test them on your Android device. 
+
+## Forest Portal
+-
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/PortalScreenshot1.png "Forest Portal")
+ 
+## Tile Portal
+-
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/PortalScreenshot6.png "Tile Portal")
+
+## Mountain Drop Portal
+-
+*The world in Unity*
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/3.png "Tile Portal")
+
+*The view before fall*
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/5.png "Fall")
+
+*The view after fall*
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/6.png "after fall")
+
+## Arabi Nights Portal
+-
+In the making ....... 
