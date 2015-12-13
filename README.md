@@ -6,7 +6,7 @@ This project is about using Google Cardboard and exploring the world of Virtual 
   1. Home Portal (where it all begins)
   2. Tile Portal 
   3. Forest Portal
-  4. Arabic Nights Portal
+  4. Explore Island Portal
   5. Mountain Drop Portal
 
 #### Team Members 
@@ -33,5 +33,5 @@ Since we used Google Cardboard to demo the 3D renditions of our work, please fin
 *The view after fall*
 ![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/6.png "after fall")
 
-## Arabic Nights Portal
+## Explore Island Portal
 In the making ....... 
