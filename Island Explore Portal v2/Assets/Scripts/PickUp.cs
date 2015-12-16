@@ -1,12 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class PickUp : MonoBehaviour
 {
     public GUIText scoreText;
-    public int purplescore;
+    
     public AudioClip clip_purple;
     public AudioClip clip_red;
+
+    public Text countText_left;
+    public Text countText_right;
+    public int purplescore;
     void OnCollisionEnter (Collision col)
     {
         //if this works we will add more conditions on the 
@@ -30,6 +35,7 @@ public class PickUp : MonoBehaviour
 
     void UpdateScore()
     {
-        //scoreText.text = "Score: " + purplescore*10;
+        countText_left.text = "Score: " + purplescore*10;
+        countText_right.text = "Score: " + purplescore * 10;
     }
 }
