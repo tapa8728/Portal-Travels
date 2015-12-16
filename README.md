@@ -34,4 +34,8 @@ Since we used Google Cardboard to demo the 3D renditions of our work, please fin
 ![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Screenshots/6.png "after fall")
 
 ## Explore Island Portal
-In the making ....... 
+World View
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Island%20Explore%20Portal%20v2/Screenshots/3.png "after fall")
+
+Collect the stars and win points
+![Alt text](https://github.com/tapa8728/Portal-Travels/blob/master/Island%20Explore%20Portal%20v2/Screenshots/4.png "after fall")
