@@ -8,6 +8,7 @@ public class PickUp : MonoBehaviour
     
     public AudioClip clip_purple;
     public AudioClip clip_red;
+    
 
     public Text countText_left;
     public Text countText_right;
@@ -31,8 +32,11 @@ public class PickUp : MonoBehaviour
             AudioSource.PlayClipAtPoint(clip_red, transform.position);
             Destroy(col.gameObject);
         }
+
+        
     }
 
+   
     void UpdateScore()
     {
         countText_left.text = "Score: " + purplescore*10;
